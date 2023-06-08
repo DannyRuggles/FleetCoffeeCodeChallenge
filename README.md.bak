@@ -1,5 +1,5 @@
 # FleetCoffeeCodeChallenge
-Fleet Coffee Coding Challenge
+FleetCoffee Coding Challenge
 
 This repository contains two Java files: FirstNonRepeatedCharacter.class and Main.java. The FirstNonRepeatedCharacter.class file contains the compiled bytecode of the FirstNonRepeatedCharacter class, which provides a method to find the first non-repeated character in a given string. The Main class contains a main method that demonstrates the usage of the FirstNonRepeatedCharacter class.
 
